@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Application\\Application.csproj",
+      "projectPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Application\\obj\\",
+      "outputPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Web\\Web.csproj": {}
+    "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Web\\Web.csproj": {
+    "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Web\\Web.csproj",
+        "projectPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Web\\obj\\",
+        "outputPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj": {}
+    "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\obj\\",
+        "outputPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
