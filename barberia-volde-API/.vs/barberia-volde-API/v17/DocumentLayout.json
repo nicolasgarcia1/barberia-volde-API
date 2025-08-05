@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\thirstservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\thirstservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|solutionrelative:web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:23:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\ThirstService\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\ThirstService\\AuthService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\ThirstService\\AuthService.cs",
+              "RelativeToolTip": "Infraestructure\\ThirstService\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:22:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:19:18.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EstadoTurno.cs",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Enum\\EstadoTurno.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\EstadoTurno.cs",
@@ -34,12 +85,11 @@
               "RelativeToolTip": "Domain\\Enum\\EstadoTurno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:40:54.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:40:54.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Turno.cs",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Turno.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Turno.cs",
@@ -47,18 +97,17 @@
               "RelativeToolTip": "Domain\\Entities\\Turno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:37:52.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:37:52.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
               "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
               "RelativeToolTip": "Domain\\Entities\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T23:34:09.422Z",
               "EditorCaption": ""

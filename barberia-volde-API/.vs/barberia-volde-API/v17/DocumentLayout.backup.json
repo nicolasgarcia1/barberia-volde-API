@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\",
+  "WorkspaceRootPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\users\\nicol\\source\\repos\\barberia-volde-api\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\enum\\estadoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\estadoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoTurno.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Enum\\EstadoTurno.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\EstadoTurno.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Enum\\EstadoTurno.cs",
+              "RelativeToolTip": "Domain\\Enum\\EstadoTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:40:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Turno.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Turno.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Turno.cs",
+              "RelativeToolTip": "Domain\\Entities\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:37:52.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Infraestructure",
-              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
-              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
-              "ToolTip": "C:\\Users\\nicol\\source\\repos\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
-              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-03T16:32:52.638Z",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
+              "RelativeToolTip": "Domain\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:34:09.422Z",
               "EditorCaption": ""
             }
           ]

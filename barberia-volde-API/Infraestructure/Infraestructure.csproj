@@ -10,11 +10,14 @@
     <Folder Include="Context\" />
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
-    <Folder Include="ThirstService\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
   </ItemGroup>
 
 </Project>
