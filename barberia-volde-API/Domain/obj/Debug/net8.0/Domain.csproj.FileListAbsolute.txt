@@ -1,0 +1,12 @@
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.dll
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\Domain.pdb
+C:\SourceCode\proyects\barberia-volde-API\barberia-volde-API\Domain\obj\Debug\net8.0\ref\Domain.dll

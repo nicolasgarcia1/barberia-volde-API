@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\thirstservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\thirstservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|solutionrelative:web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\models\\helpers\\authserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\models\\helpers\\authserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B1415-1921-4DBB-B460-302BFF03FA83}|Web\\Web.csproj|solutionrelative:web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\migrations\\20250806011355_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20250806011355_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\data\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\mappings\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\mappings\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\models\\request\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\models\\request\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\models\\response\\adminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\models\\response\\adminresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062DD67-1412-46A5-961A-3C1E0CBFD3C1}|Application\\Application.csproj|solutionrelative:application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\context\\barberiavoldedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\context\\barberiavoldedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCF41812-5407-4189-B9A0-64CE7CC27AEC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B655816B-7D5B-4B35-B421-6AFE815346CC}|Domain\\Domain.csproj|c:\\sourcecode\\proyects\\barberia-volde-api\\barberia-volde-api\\domain\\enum\\estadoturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +90,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:42:29.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthServiceOptions.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Helpers\\AuthServiceOptions.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Helpers\\AuthServiceOptions.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Helpers\\AuthServiceOptions.cs",
+              "RelativeToolTip": "Application\\Models\\Helpers\\AuthServiceOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:35:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T20:29:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:29:50.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\ThirstService\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\ThirstService\\AuthService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\ThirstService\\AuthService.cs",
+              "RelativeToolTip": "Infraestructure\\ThirstService\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:22:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:19:18.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:31:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Data\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AdminRepository.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Data\\AdminRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:25:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250806011355_InitialCreate.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Migrations\\20250806011355_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20250806011355_InitialCreate.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Migrations\\20250806011355_InitialCreate.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20250806011355_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:13:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:23:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:03:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminProfile.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Mappings\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\AdminProfile.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Mappings\\AdminProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\AdminProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:17:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Request\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Request\\AuthRequest.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Request\\AuthRequest.cs",
+              "RelativeToolTip": "Application\\Models\\Request\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:33:10.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminResponse.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Response\\AdminResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Response\\AdminResponse.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Models\\Response\\AdminResponse.cs",
+              "RelativeToolTip": "Application\\Models\\Response\\AdminResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:59:54.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AdminService.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Application\\Services\\AdminService.cs",
+              "RelativeToolTip": "Application\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:11:10.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BarberiaVoldeDbContext.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Context\\BarberiaVoldeDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Context\\BarberiaVoldeDbContext.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Context\\BarberiaVoldeDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Context\\BarberiaVoldeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:52:47.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
+              "RelativeToolTip": "Domain\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:34:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Infraestructure",
+              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T20:35:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "EstadoTurno.cs",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Enum\\EstadoTurno.cs",
               "RelativeDocumentMoniker": "Domain\\Enum\\EstadoTurno.cs",
@@ -39,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Turno.cs",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Turno.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Turno.cs",
@@ -48,19 +350,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T23:37:52.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
-              "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Domain\\Entities\\Admin.cs",
-              "RelativeToolTip": "Domain\\Entities\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:34:09.422Z",
               "EditorCaption": ""
             }
           ]
