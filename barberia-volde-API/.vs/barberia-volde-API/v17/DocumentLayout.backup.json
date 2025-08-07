@@ -102,8 +102,7 @@
               "RelativeToolTip": "Web\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T20:42:29.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T20:42:29.256Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "Application\\Models\\Helpers\\AuthServiceOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:35:46.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:35:46.745Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T20:29:46.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T20:29:46.133Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "Domain\\Interfaces\\IAdminRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:29:50.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:29:50.204Z"
             },
             {
               "$type": "Document",
@@ -152,7 +148,7 @@
               "RelativeDocumentMoniker": "Infraestructure\\ThirstService\\AuthService.cs",
               "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\ThirstService\\AuthService.cs",
               "RelativeToolTip": "Infraestructure\\ThirstService\\AuthService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwD0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T00:22:55.499Z",
               "EditorCaption": ""
@@ -167,8 +163,7 @@
               "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T00:19:18.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T00:19:18.495Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "Web\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAIwEIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T20:31:10.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T20:31:10.497Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "Infraestructure\\Data\\AdminRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:25:30.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:25:30.578Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "RelativeToolTip": "Infraestructure\\Migrations\\20250806011355_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T01:13:56.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T01:13:56.441Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T00:23:38.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T00:23:38.178Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IAdminService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T21:03:24.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T21:03:24.704Z"
             },
             {
               "$type": "Document",
@@ -245,8 +235,7 @@
               "RelativeToolTip": "Application\\Mappings\\AdminProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:17:18.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:17:18.183Z"
             },
             {
               "$type": "Document",
@@ -258,8 +247,7 @@
               "RelativeToolTip": "Application\\Models\\Request\\AuthRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:33:10.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T19:33:10.848Z"
             },
             {
               "$type": "Document",
@@ -271,8 +259,7 @@
               "RelativeToolTip": "Application\\Models\\Response\\AdminResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T21:59:54.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T21:59:54.36Z"
             },
             {
               "$type": "Document",
@@ -284,8 +271,7 @@
               "RelativeToolTip": "Application\\Services\\AdminService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:11:10.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:11:10.395Z"
             },
             {
               "$type": "Document",
@@ -297,8 +283,7 @@
               "RelativeToolTip": "Infraestructure\\Context\\BarberiaVoldeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:52:47.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T19:52:47.323Z"
             },
             {
               "$type": "Document",
@@ -310,21 +295,19 @@
               "RelativeToolTip": "Domain\\Entities\\Admin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:34:09.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:34:09.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Infraestructure",
+              "Title": "Infraestructure.csproj",
               "DocumentMoniker": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
               "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
               "ToolTip": "C:\\SourceCode\\proyects\\barberia-volde-API\\barberia-volde-API\\Infraestructure\\Infraestructure.csproj",
               "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T20:35:38.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T20:35:38.011Z"
             },
             {
               "$type": "Document",
@@ -336,8 +319,7 @@
               "RelativeToolTip": "Domain\\Enum\\EstadoTurno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:40:54.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:40:54.48Z"
             },
             {
               "$type": "Document",
@@ -349,8 +331,7 @@
               "RelativeToolTip": "Domain\\Entities\\Turno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T23:37:52.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:37:52.214Z"
             }
           ]
         }
