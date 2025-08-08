@@ -24,5 +24,78 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "ActualizarTurno",
+    "RelativePath": "api/Turno/ActualizarTurno/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "turnoRequest",
+        "Type": "Application.Models.Request.TurnoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "GetAllTurnos",
+    "RelativePath": "api/Turno/AllTurnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "CrearTurno",
+    "RelativePath": "api/Turno/CrearTurno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turnoRequest",
+        "Type": "Application.Models.Request.TurnoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "GetTurnoById",
+    "RelativePath": "api/Turno/Turnos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.TurnoController",
+    "Method": "GetTurnosPendientes",
+    "RelativePath": "api/Turno/TurnosPendientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

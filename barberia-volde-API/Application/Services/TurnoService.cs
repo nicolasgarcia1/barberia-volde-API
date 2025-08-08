@@ -1,4 +1,10 @@
-﻿using System;
+﻿using Application.Interfaces;
+using Application.Mappings;
+using Application.Models.Request;
+using Application.Models.Response;
+using Domain.Enum;
+using Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +27,13 @@ namespace Application.Services
             return turnos.Select(t => TurnoProfile.ToTurnoResponse(t)).ToList();
         }
 
+        public async Task<List<TurnoResponse>> GetAllTurnosPendientesAsync()
+        {
+
+            var turnos = await _turnoRepository.GetAllTurnosPendientesAsync();
+            return turnos.Select(t => TurnoProfile.ToTurnoResponse(t)).ToList();
+        }
+
         public async Task<TurnoResponse> GetTurnoByIdAsync(int id)
         {
             var turno = await _turnoRepository.GetTurnoByIdAsync(id);
@@ -31,23 +44,35 @@ namespace Application.Services
             return TurnoProfile.ToTurnoResponse(turno);
         }
 
-        public async Task CrearTurnoAsync(TurnoRequest request)
+        public async Task<TurnoResponse> CrearTurnoAsync(TurnoRequest request)
         {
-            var turno = TurnoProfile.ToTurno(request);
-            await _turnoRepository.CreateTurnoAsync(turno);
-            return turno;
+            var turno = TurnoProfile.ToTurnoEntity(request);
+            await _turnoRepository.CrearTurnoAsync(turno);
+            return TurnoProfile.ToTurnoResponse(turno);
         }
 
-        public async Task ActualizarTurnoAsync(int id, TurnoRequest request)
+        public async Task<TurnoResponse> ActualizarTurnoAsync(int id, TurnoRequest request)
         {
             var turno = await _turnoRepository.GetTurnoByIdAsync(id);
             if (turno == null)
             {
                 throw new KeyNotFoundException("Turno no encontrado.");
             }
-            var newTurno = TurnoProfile.UpdateTurnoFromRequest(turno, request);
-            await _turnoRepository.UpdateTurnoAsync(turno);
-            return newTurno;
+            var newTurno = TurnoProfile.ToUpdateTurno(turno, request);
+            await _turnoRepository.ActualizarTurnoAsync(turno);
+            return TurnoProfile.ToTurnoResponse(newTurno);
+        }
+
+        public async Task<TurnoResponse> ActualizarEstado(int id, EstadoTurno estado)
+        {
+            var turno = await _turnoRepository.GetTurnoByIdAsync(id);
+            if (turno == null)
+            {
+                throw new KeyNotFoundException("Turno no encontrado.");
+            }
+            turno.Estado = estado;
+            await _turnoRepository.ActualizarTurnoAsync(turno);
+            return TurnoProfile.ToTurnoResponse(turno);
         }
     }
 }

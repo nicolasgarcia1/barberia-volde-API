@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Application.Interfaces;
+using Application.Models.Request;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Web.Controllers
 {
@@ -18,7 +20,7 @@ namespace Web.Controllers
         {
             try
             {
-                var turnos = await _turnoService.GetAllTurnos();
+                var turnos = await _turnoService.GetAllTurnosAsync();
                 if (turnos == null || !turnos.Any())
                 {
                     return NotFound("No se encontraron turnos.");
@@ -36,8 +38,8 @@ namespace Web.Controllers
         {
             try
             {
-                var turnosPendientes = await _turnoService.GetAllTurnosAsync().Where(x => x.Estado == "Pendiente");
-                if (turnosPendientes == null || !turnosPendientes.Any())
+                var turnosPendientes = await _turnoService.GetAllTurnosPendientesAsync();
+                if (!turnosPendientes.Any())
                 {
                     return NotFound("No se encontraron turnos pendientes.");
                 }
