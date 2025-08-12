@@ -46,8 +46,18 @@ namespace Application.Services
 
         public async Task<TurnoResponse> CrearTurnoAsync(TurnoRequest request)
         {
+            if (request.FechaHora.Minute != 0 || request.FechaHora.Second != 0 || request.FechaHora.Millisecond != 0)
+            {
+                throw new ArgumentException("La hora del turno debe ser en punto (sin minutos ni segundos).");
+            }
+
             var turno = TurnoProfile.ToTurnoEntity(request);
-            await _turnoRepository.CrearTurnoAsync(turno);
+            bool creado = await _turnoRepository.CrearTurnoAsync(turno);
+            if (!creado)
+            {
+                throw new InvalidOperationException("Ya existe un turno para la fecha y hora especificada.");
+            }
+
             return TurnoProfile.ToTurnoResponse(turno);
         }
 
@@ -63,13 +73,19 @@ namespace Application.Services
             return TurnoProfile.ToTurnoResponse(newTurno);
         }
 
-        public async Task<TurnoResponse> ActualizarEstado(int id, EstadoTurno estado)
+        public async Task<TurnoResponse> ActualizarEstadoAsync(int id, EstadoTurno estado)
         {
+            if (!Enum.IsDefined(typeof(EstadoTurno), estado))
+            {
+                throw new ArgumentException("Estado de turno inválido.");
+            }
+
             var turno = await _turnoRepository.GetTurnoByIdAsync(id);
             if (turno == null)
             {
                 throw new KeyNotFoundException("Turno no encontrado.");
             }
+
             turno.Estado = estado;
             await _turnoRepository.ActualizarTurnoAsync(turno);
             return TurnoProfile.ToTurnoResponse(turno);

@@ -1,5 +1,7 @@
 ﻿using Application.Interfaces;
 using Application.Models.Request;
+using Domain.Enum;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Web.Controllers
@@ -16,6 +18,7 @@ namespace Web.Controllers
         }
 
         [HttpGet("AllTurnos")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetAllTurnos()
         {
             try
@@ -34,6 +37,7 @@ namespace Web.Controllers
         }
 
         [HttpGet("TurnosPendientes")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetTurnosPendientes()
         {
             try
@@ -52,6 +56,7 @@ namespace Web.Controllers
         }
 
         [HttpGet("Turnos/{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetTurnoById(int id)
         {
             try
@@ -84,11 +89,31 @@ namespace Web.Controllers
         }
 
         [HttpPut("ActualizarTurno/{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> ActualizarTurno(int id, [FromBody] TurnoRequest turnoRequest)
         {
             try
             {
                 var turnoActualizado = await _turnoService.ActualizarTurnoAsync(id, turnoRequest);
+                if (turnoActualizado == null)
+                {
+                    return NotFound($"No se encontró el turno con ID {id} para actualizar.");
+                }
+                return Ok(turnoActualizado);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpPut("ActualizarEstado/{id}")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> ActualizarEstado(int id, [FromBody] EstadoTurno estado)
+        {
+            try
+            {
+                var turnoActualizado = await _turnoService.ActualizarEstadoAsync(id, estado);
                 if (turnoActualizado == null)
                 {
                     return NotFound($"No se encontró el turno con ID {id} para actualizar.");

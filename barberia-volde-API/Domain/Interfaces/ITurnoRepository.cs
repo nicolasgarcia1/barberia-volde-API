@@ -13,7 +13,7 @@ namespace Domain.Interfaces
         Task<List<Turno>> GetAllTurnosAsync();
         Task<List<Turno>> GetAllTurnosPendientesAsync();
         Task<Turno?> GetTurnoByIdAsync(int id);
-        Task CrearTurnoAsync(Turno turno);
+        Task<bool> CrearTurnoAsync(Turno turno);
         Task ActualizarTurnoAsync(Turno turno);
         Task ActualizarEstadoAsync(Turno turno);
 

@@ -16,6 +16,6 @@ namespace Application.Interfaces
         Task<TurnoResponse> GetTurnoByIdAsync(int id);
         Task<TurnoResponse> CrearTurnoAsync(TurnoRequest request);
         Task<TurnoResponse> ActualizarTurnoAsync(int id, TurnoRequest request);
-        Task<TurnoResponse> ActualizarEstado(int id, EstadoTurno estado);
+        Task<TurnoResponse> ActualizarEstadoAsync(int id, EstadoTurno estado);
     }
 }

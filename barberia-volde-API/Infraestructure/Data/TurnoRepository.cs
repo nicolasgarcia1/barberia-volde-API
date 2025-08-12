@@ -37,10 +37,17 @@ namespace Infraestructure.Data
             return await _context.Turnos.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public async Task CrearTurnoAsync(Turno turno)
+        public async Task<bool> CrearTurnoAsync(Turno turno)
         {
+            bool existe = await _context.Turnos.AnyAsync(t => t.FechaHora == turno.FechaHora);
+            if (existe)
+            {
+                return false;
+            }
+
             _context.Turnos.Add(turno);
             await _context.SaveChangesAsync();
+            return true;
         }
 
         public async Task ActualizarTurnoAsync(Turno turno)

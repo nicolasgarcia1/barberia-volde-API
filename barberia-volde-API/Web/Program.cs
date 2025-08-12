@@ -82,9 +82,11 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 
 // servicios de infraestructura
 builder.Services.AddScoped<IAdminService, AdminService>();
+builder.Services.AddScoped<ITurnoService, TurnoService>();
 
 // repositorios de infraestructura
 builder.Services.AddScoped<IAdminRepository, AdminRepository>();
+builder.Services.AddScoped<ITurnoRepository, TurnoRepository>();
 
 var app = builder.Build();
 
